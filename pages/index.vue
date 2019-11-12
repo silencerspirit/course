@@ -5,9 +5,7 @@
       <h1 class="title">
         course
       </h1>
-      <h2 class="subtitle">
-        
-      </h2>
+      <h2 class="subtitle" />
       <div class="links">
         <a
           href="https://nuxtjs.org/"
